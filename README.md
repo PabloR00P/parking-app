@@ -70,3 +70,12 @@ php artisan serve
 
 Esto iniciará el servidor de desarrollo de Laravel y podrás acceder a la aplicación en tu navegador ingresando la URL `http://localhost:8000` (o la URL especificada por el servidor de desarrollo).
 
+
+## Diagrama UML
+
+![Captura de pantalla 1](screenshots/UML.png)
+
+
+## Diagrama Entidad Relación 
+
+![Captura de pantalla 2](screenshots/ER.png)
